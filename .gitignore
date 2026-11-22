@@ -1,0 +1,21 @@
+# analysis outputs must never be committed
+results/
+work/
+.nextflow*
+.snakemake/
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+*.csi
+*.fa
+*.fasta
+*.fai
+*.DS_Store
